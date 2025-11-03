@@ -13,7 +13,7 @@ MapBiomas Climate risk module
    - step 3:
      
 5. Water Security Index
-   The final integrated climate risk assessment incorporates the Water Security Index (ISH – Índice de Segurança Hídrica), a composite indicator developed by the Brazilian National Water Agency (ANA). The ISH reflects dimensions such as:
+   - The final integrated climate risk assessment incorporates the Water Security Index (ISH – Índice de Segurança Hídrica), a composite indicator developed by the Brazilian National Water Agency (ANA). The ISH reflects dimensions such as:
    - Water availability
    - Infrastructure and supply capacity
    - Socioeconomic demand pressure
