@@ -5,7 +5,7 @@ MapBiomas Climate risk module
    - step 1: https://code.earthengine.google.com/661c43cae772a4ed720666e541e1f618
    - step 2: https://code.earthengine.google.com/f504c2548d557de40c060c17eeb27b5d
    - step 3: https://code.earthengine.google.com/b182f8b4ffdaf11686c88e3a20b22b36
-   - step 4:
+   - step 4: https://code.earthengine.google.com/b4e1d4608559c037997a4a578ac83355
      
 3. Urban areas susceptible to flooding, inundation or flash floods (beta)
    - step 1: https://code.earthengine.google.com/7a3e3f83af50409511ce49c9b552aea5
