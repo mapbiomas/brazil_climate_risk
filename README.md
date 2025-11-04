@@ -8,9 +8,8 @@ MapBiomas Climate risk module
    - step 4:
      
 3. Urban areas susceptible to flooding, inundation or flash floods (beta)
-   - step 1:
+   - step 1: https://code.earthengine.google.com/7a3e3f83af50409511ce49c9b552aea5
    - step 2:
-   - step 3:
      
 5. Water Security Index
    - The final integrated climate risk assessment incorporates the Water Security Index (ISH – Índice de Segurança Hídrica), a composite indicator developed by the Brazilian National Water Agency (ANA). The ISH reflects dimensions such as:
