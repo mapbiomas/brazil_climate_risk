@@ -3,7 +3,7 @@ MapBiomas Climate risk module
 
 1. Urban areas susceptible to landslides (beta)
    - step 1: https://code.earthengine.google.com/661c43cae772a4ed720666e541e1f618
-   - step 2:
+   - step 2: https://code.earthengine.google.com/f504c2548d557de40c060c17eeb27b5d
    - step 3:
    - step 4:
      
